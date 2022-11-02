@@ -16,6 +16,9 @@ If we missed something please ping us.
 
 Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emba) and the enterprise Firmware scanning environment [*EMBArk*](https://github.com/e-m-b-a/embark).
 
+[![Star History Chart](https://api.star-history.com/svg?repos=e-m-b-a/emba,e-m-b-a/embark&type=Timeline)](https://star-history.com/#e-m-b-a/emba&e-m-b-a/embark&Timeline)
+
+
 ## Latest news
 
 * [*EMBA - v1.1.3 - Metasploit edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.1.3-Metasploit-Edt)
