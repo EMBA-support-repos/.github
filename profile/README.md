@@ -1,6 +1,6 @@
 # Welcome to EMBA support repository
 
-This repo collects all the great projects, sources and repositories which are used from [EMBA](https://github.com/e-m-b-a).
+This repo collects all the great projects, sources and repositories which are used from [*EMBA*](https://github.com/e-m-b-a).
 
 If we missed something please ping us.
 
