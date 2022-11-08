@@ -2,7 +2,7 @@
 
 This repo collects all the great projects, sources and repositories which are used from [*EMBA*](https://github.com/e-m-b-a).
 
-If we missed something please ping us.
+If we missed something please [contact us](https://github.com/e-m-b-a/emba/issues).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/e-m-b-a/emba/master/helpers/emba.svg" width="200"/>
