@@ -29,3 +29,24 @@ Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * [*EMBA at DEF CON 30*](https://forum.defcon.org/node/242109)
 * [*EMBA at Black Hat USA 2022*](https://www.blackhat.com/us-22/arsenal/schedule/index.html#emba--open-source-firmware-security-testing-26596)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
+
+
+***
+<p align="center"><b>EMBA - firmware security scanning at its best</b></p>
+
+***
+
+**Sponsor EMBA and EMBArk:**
+
+The _EMBA_ environment is free and open source!
+
+We put a lot of time and energy into these tools and related research to make this happen. It's now possible for you to contribute as a sponsor!
+
+If you like _EMBA_ you have the chance to support future development by becoming a [Sponsor](https://github.com/sponsors/e-m-b-a)
+
+Thank You [:heart: Get a Sponsor](https://github.com/sponsors/e-m-b-a)
+
+***
+<p align="center"><b>EMBA - firmware security scanning at its best</b></p>
+
+***
