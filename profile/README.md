@@ -47,7 +47,9 @@ We put a lot of time and energy into these tools and related research to make th
 
 If you like _EMBA_ you have the chance to support future development by becoming a [Sponsor](https://github.com/sponsors/e-m-b-a)
 
-Thank You [:heart: Get a Sponsor](https://github.com/sponsors/e-m-b-a)
+Thank You [:heart: Get a Sponsor](https://github.com/sponsors/e-m-b-a)  
+Or you can buy us some beer here [:heart: Buy me a coffee](https://www.buymeacoffee.com/securefirmware)
+
 
 ***
 <p align="center"><b>EMBA - firmware security scanning at its best</b></p>
