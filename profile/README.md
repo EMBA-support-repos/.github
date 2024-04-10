@@ -47,6 +47,8 @@ If you like _EMBA_ you have the chance to support future development by becoming
 Thank You [:heart: Get a Sponsor](https://github.com/sponsors/e-m-b-a)  
 Or you can buy us some beer here [:heart: Buy me a coffee](https://www.buymeacoffee.com/securefirmware)
 
+To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
+
 
 ***
 <p align="center"><b>EMBA - firmware security scanning at its best</b></p>
