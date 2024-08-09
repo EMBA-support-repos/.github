@@ -20,11 +20,10 @@ Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA version 1.4.2 available*](https://github.com/e-m-b-a/emba/releases/tag/1.4.2-Summertime)
 * [*2000 followers unlocked*](https://x.com/securefirmware)
 * [*EMBA article on Medium available*](https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87)
-* [*EMBA version 1.4.1 available*](https://github.com/e-m-b-a/emba/releases/tag/1.4.1-white-rabbit)
 * To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
-* [*EMBA version 1.4.0 available*](https://github.com/e-m-b-a/emba/releases/tag/1.4.0-ICS-testing-edt)
 * [*First EMBArk version is out now*](https://github.com/e-m-b-a/embark/releases/tag/v0.1)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
